@@ -1,0 +1,14 @@
+.Container {
+    Margin:10px;
+    Border: 10px;
+    background-color: grey;
+}
+
+.InsideContainer {
+    Margin:10px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
